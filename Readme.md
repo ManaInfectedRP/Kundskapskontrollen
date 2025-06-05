@@ -4,10 +4,9 @@ Den här applikationen låter dig ladda upp en Excel-fil med diamantdata, filtre
 
 ## Länkar
 
-Streamlit Application: https://diamantanalys.streamlit.app/
-Full Python Kurs Repo: https://github.com/ManaInfectedRP/Skola_Python/tree/main/Python
-
-Min Github länk: https://github.com/ManaInfectedRP
+- Streamlit Application: https://diamantanalys.streamlit.app/
+- Full Python Kurs Repo: https://github.com/ManaInfectedRP/Skola_Python/tree/main/Python
+- Min Github länk: https://github.com/ManaInfectedRP
 
 ---
 
