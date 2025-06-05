@@ -2,7 +2,12 @@
 
 Den här applikationen låter dig ladda upp en Excel-fil med diamantdata, filtrera och visualisera olika aspekter som pris, vikt (carat), slipkvalitet (cut), färg (color) och klarhet (clarity). Appen utför också automatisk rensning av orimliga värden baserat på fysiska egenskaper.
 
-https://diamantanalys.streamlit.app/
+## Länkar
+
+Streamlit Application: https://diamantanalys.streamlit.app/
+Full Python Kurs Repo: https://github.com/ManaInfectedRP/Skola_Python/tree/main/Python
+
+Min Github länk: https://github.com/ManaInfectedRP
 
 ---
 
